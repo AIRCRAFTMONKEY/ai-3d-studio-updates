@@ -1,10 +1,10 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.2",
   "name": "AI 3D Studio",
   "release_date": "2026-03-02",
-  "installer_url": "https://github.com/AIRCRAFTMONKEY/AI_3D_Studio/releases/download/v1.0.1/AI_3D_Studio_Setup_v1.0.1.exe",
-  "release_notes_url": "https://github.com/AIRCRAFTMONKEY/AI_3D_Studio/releases/tag/v1.0.1",
-  "release_notes": "Bug fixes and improvements: restored right-panel Unicode/emoji, added Ollama model dropdown to Provider Settings, expanded model lists, improved help documentation.",
+  "installer_url": "https://github.com/AIRCRAFTMONKEY/AI_3D_Studio/releases/download/v1.0.2/AI_3D_Studio_Setup_v1.0.2.exe",
+  "release_notes_url": "https://github.com/AIRCRAFTMONKEY/AI_3D_Studio/releases/tag/v1.0.2",
+  "release_notes": "Fixed in-app update checker (now uses public version manifest). All other fixes from v1.0.1 included.",
   "min_os": "Windows 10",
   "mandatory": false
 }
