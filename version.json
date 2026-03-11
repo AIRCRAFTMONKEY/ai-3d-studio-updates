@@ -1,10 +1,10 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "name": "AI 3D Studio",
-  "release_date": "2026-03-08",
-  "installer_url": "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/download/v1.0.4/AI_3D_Studio_Setup_v1.0.4.exe",
-  "release_notes_url": "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/tag/v1.0.4",
-  "release_notes": "MeshLab auto-detection now uses registry + versioned folders + PATH. PySide6 6.10.1 stability fix (app no longer hangs at startup). Open External Tool dropdown added to Scan Browser and 3D Viewer.",
+  "release_date": "2026-03-10",
+  "installer_url": "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/download/v1.0.5/AI_3D_Studio_Setup_v1.0.5.exe",
+  "release_notes_url": "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/tag/v1.0.5",
+  "release_notes": "Security hardening: replaced eval/exec with safe AST-based alternatives, added subprocess timeouts throughout, fixed risk scanner false positives, fixed Python syntax checker to exclude venv/dist/build folders.",
   "min_os": "Windows 10",
   "mandatory": false
 }
