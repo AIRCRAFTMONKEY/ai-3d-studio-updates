@@ -1,10 +1,10 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "name": "AI 3D Studio",
-  "release_date": "2026-03-10",
-  "installer_url": "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/download/v1.0.6/AI_3D_Studio_Setup_v1.0.6.exe",
-  "release_notes_url": "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/tag/v1.0.6",
-  "release_notes": "Fix OpenAI API key validation (pydantic version conflict caused silent import failure). Fix hover text disappearing across all list widgets.",
+  "release_date": "2026-03-11",
+  "installer_url": "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/download/v1.0.7/AI_3D_Studio_Setup_v1.0.7.exe",
+  "release_notes_url": "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/tag/v1.0.7",
+  "release_notes": "Fix OpenAI key not working after entering it in Settings dialog (required app restart). Key now takes effect immediately.",
   "min_os": "Windows 10",
   "mandatory": false
 }
