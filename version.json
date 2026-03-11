@@ -1,10 +1,10 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "name": "AI 3D Studio",
   "release_date": "2026-03-10",
-  "installer_url": "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/download/v1.0.5/AI_3D_Studio_Setup_v1.0.5.exe",
-  "release_notes_url": "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/tag/v1.0.5",
-  "release_notes": "Security hardening: replaced eval/exec with safe AST-based alternatives, added subprocess timeouts throughout, fixed risk scanner false positives, fixed Python syntax checker to exclude venv/dist/build folders.",
+  "installer_url": "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/download/v1.0.6/AI_3D_Studio_Setup_v1.0.6.exe",
+  "release_notes_url": "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/tag/v1.0.6",
+  "release_notes": "Fix OpenAI API key validation (pydantic version conflict caused silent import failure). Fix hover text disappearing across all list widgets.",
   "min_os": "Windows 10",
   "mandatory": false
 }
