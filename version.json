@@ -1,10 +1,10 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "name": "AI 3D Studio",
   "release_date": "2026-03-16",
-  "installer_url": "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/download/v1.1.0/AI_3D_Studio_Setup_v1.1.0.exe",
-  "release_notes_url": "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/tag/v1.1.0",
-  "release_notes": "Learning Sources upgrades: Add Website now accepts multiple URLs at once; Add Multiple Folders now lets you keep picking folders until done; Add from Preset provides 8 curated collections (Python, Qt, AI/ML, 3D Printing, Blender, 3D Assets, Photogrammetry, GitHub).",
+  "installer_url": "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/download/v1.1.1/AI_3D_Studio_Setup_v1.1.1.exe",
+  "release_notes_url": "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/tag/v1.1.1",
+  "release_notes": "Fix update checker: version.json now served from public repo so all installed apps can detect new versions. Learning Sources upgrades from v1.1.0 included.",
   "min_os": "Windows 10",
   "mandatory": false
 }
