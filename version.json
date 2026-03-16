@@ -1,10 +1,10 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "name": "AI 3D Studio",
-  "release_date": "2026-03-13",
-  "installer_url": "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/download/v1.0.8/AI_3D_Studio_Setup_v1.0.8.exe",
-  "release_notes_url": "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/tag/v1.0.8",
-  "release_notes": "3MF multi-part assembly viewer: each part loads independently, Z-up auto-corrected, true millimeter scale, large-assembly camera fix. Help docs updated.",
+  "release_date": "2026-03-16",
+  "installer_url": "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/download/v1.0.9/AI_3D_Studio_Setup_v1.0.9.exe",
+  "release_notes_url": "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/tag/v1.0.9",
+  "release_notes": "Fix Ollama timeouts: wall-clock deadline, skip heavy capabilities block for scan analysis, 600s default timeout. Fix duplicate error bubbles. Fix scan dialog hide on Windows. Fix PointCloud detection.",
   "min_os": "Windows 10",
   "mandatory": false
 }
