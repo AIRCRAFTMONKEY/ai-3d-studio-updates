@@ -2,8 +2,8 @@
     "version":  "1.1.2",
     "name":  "AI 3D Studio",
     "release_date":  "2026-03-17",
-    "installer_url":  "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/download/v1.1.1/AI_3D_Studio_Setup_v1.1.1.exe",
-    "release_notes_url":  "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/tag/v1.1.1",
+    "installer_url":  "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/download/v1.1.2/AI_3D_Studio_Setup_v1.1.2.exe",
+    "release_notes_url":  "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/tag/v1.1.2",
     "release_notes":  "Fix: failed website sources now correctly shown in Sources tab after ingestion (stale cfg was overwriting ingest_failures on save).",
     "min_os":  "Windows 10",
     "mandatory":  false
