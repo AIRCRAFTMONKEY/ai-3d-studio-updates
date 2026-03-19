@@ -1,10 +1,10 @@
 {
-    "version":  "1.1.3",
+    "version":  "1.1.4",
     "name":  "AI 3D Studio",
-    "release_date":  "2026-03-17",
-    "installer_url":  "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/download/v1.1.3/AI_3D_Studio_Setup_v1.1.3.exe",
-    "release_notes_url":  "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/tag/v1.1.3",
-    "release_notes":  "Fix: version.json UTF-8 BOM caused app to always display version 0.0.0 and trigger false update prompts. Updated Learning Sources help dialog with scheduling, Failed Sources filter, and Reset/Remove Failed button documentation.",
+    "release_date":  "2026-03-18",
+    "installer_url":  "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/download/v1.1.4/AI_3D_Studio_Setup_v1.1.4.exe",
+    "release_notes_url":  "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/tag/v1.1.4",
+    "release_notes":  "Fix: reasoning model HTTP 400 -- tools now disabled unconditionally for DeepSeek-R1, QwQ, and o1 models. Fix: DeepSeek R1/QwQ think blocks stripped from output (shows Thinking... during reasoning). Fix: paste from browser lands as plain text. Fix: mesh command guard + broader conversational bypass. Fix: LaTeX delimiters stripped from R1 output. Fix: dev-only menu items hidden in production build (Auto-Learn, Auto-Import, Training, VS Code Helper, Development tools, Auto-Builder Checklist). Updated help documentation.",
     "min_os":  "Windows 10",
     "mandatory":  false
 }
