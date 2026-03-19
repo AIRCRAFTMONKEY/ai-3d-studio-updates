@@ -1,10 +1,10 @@
 {
-    "version":  "1.1.5",
+    "version":  "1.1.6",
     "name":  "AI 3D Studio",
-    "release_date":  "2026-03-18",
-    "installer_url":  "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/download/v1.1.5/AI_3D_Studio_Setup_v1.1.5.exe",
-    "release_notes_url":  "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/tag/v1.1.5",
-    "release_notes":  "Fix: restore 3D Tools, Settings, User Interface, and Help menus in production build -- early return in create_menu_bar() was cutting off all menus after the Development submenu.",
+    "release_date":  "2026-03-19",
+    "installer_url":  "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/download/v1.1.6/AI_3D_Studio_Setup_v1.1.6.exe",
+    "release_notes_url":  "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/tag/v1.1.6",
+    "release_notes":  "Bundled starter AI knowledge base (index.jsonl + vectors.npy) in installer so the AI has knowledge ready on first launch without requiring manual indexing.",
     "min_os":  "Windows 10",
     "mandatory":  false
 }
