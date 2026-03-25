@@ -1,10 +1,10 @@
 {
-    "version":  "1.1.8",
+    "version":  "1.1.9",
     "name":  "AI 3D Studio",
-    "release_date":  "2026-03-21",
-    "installer_url":  "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/download/v1.1.8/AI_3D_Studio_Setup_v1.1.8.exe",
-    "release_notes_url":  "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/tag/v1.1.8",
-    "release_notes":  "New: AI mesh commands in chat — analyze mesh stats, simplify/reduce faces, separate multi-body 3MF into individual STLs. Multi-body 3MF simplification decimates each body proportionally and reassembles into a _simplified.3mf. Fix: mesh commands now work correctly with paths containing spaces. Fix: all bodies in a multi-body 3MF are now processed (was only loading first body). Docs: added AI Mesh Commands section to User Guide and Help.",
+    "release_date":  "2026-03-25",
+    "installer_url":  "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/download/v1.1.9/AI_3D_Studio_Setup_v1.1.9.exe",
+    "release_notes_url":  "https://github.com/AIRCRAFTMONKEY/ai-3d-studio-updates/releases/tag/v1.1.9",
+    "release_notes":  "Fix: TTS no longer reads [Sound effect: ...] markers aloud. Fix: TTS no longer reads AI confidence footers aloud. Fix: all SFX sound effects in a response now play correctly (previously only the first effect was heard). Fix: SFX ambient/looping sounds now continue across the full response without stopping and restarting. Fix: TTS speaks after the full response completes for clear, reliable playback.",
     "min_os":  "Windows 10",
     "mandatory":  false
 }
